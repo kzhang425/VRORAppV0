@@ -1,5 +1,6 @@
 # VRORAppV0
-A Unity project prototype for helping surgeons in the operating room increase their FOV and visual data.
+This repo contains a Unity project prototype with the aim to create a surgery-specific VR environment to optimize the surgical field of view with external cameras during tonsillectomy and adenoidectomy procedures.
+
 
 This GitHub repository contains the core source code files that are used in the Unity application. The entire Unity project exceeds the data storage limit so could not be uploaded.
 
