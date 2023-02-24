@@ -13,4 +13,5 @@ The `src` folder contains the following files: <br />
 
 ## Software Flowchart
 The flowchart below represents the general flow of data in a server-client setup.
-![Software Flowchart] (VROR_Brainstorm.png)
+
+![Software Flowchart](VROR_Brainstorm.png)
