@@ -7,6 +7,6 @@ This GitHub repository contains the core source code files that are used in the 
 The `src` folder contains the following files: <br />
 `CameraCapture.cs` - This script brings in the video stream from a connected usb device to be used as a video texture in the virtual environment. <br />
 `ServerBehaviour.cs` - This script runs a server to transmit data through a local UDP connection. <br />
-`ClientBehaviour.cs` - This script allows for the VR headset to recieve the video data. <br />
+`ClientBehaviour.cs` - This script allows for the VR headset to receive the video data. <br />
 
 <img width="387" alt="Screenshot 2023-02-24 005216" src="https://user-images.githubusercontent.com/65694382/221104523-88d25754-ba07-418c-8483-ca90ee3c8706.png">
